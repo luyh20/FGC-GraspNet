@@ -1,5 +1,7 @@
 # FGC-GraspNet
-Official Implementation for paper "Hybrid Physical Metric For 6-DoF Grasp Pose Detection" ICRA 2022.
+Official Implementation for paper "Hybrid Physical Metric For 6-DoF Grasp Pose Detection" ICRA 2022. 
+
+[arxiv](https://arxiv.org/abs/2206.11141)
 
 
 ![teaser](doc/first.png)
@@ -7,7 +9,7 @@ Official Implementation for paper "Hybrid Physical Metric For 6-DoF Grasp Pose D
 ## Data Preparation
 Download the GraspNet-1Billion dataset from [graspnet](https://graspnet.net/datasets.html).
 In this paper, we use a new evaluation metric to generate grasp confidence scores for grasp poses.
-You can get the new score labels under hybrid physical metric from [here](https://drive.google.com/file/d/1wAcGKOAO3EKWV0iih5sSVW5fHsu0X11R/view?usp=sharing).
+You can get the new score labels under hybrid physical metric from [here](https://drive.google.com/u/0/uc?id=1wAcGKOAO3EKWV0iih5sSVW5fHsu0X11R&export=download).
 The data directories should like this:
 
 ```
@@ -79,3 +81,14 @@ Run Demo:
 python demo.py
 ```
 
+## BibTeX
+```
+@inproceedings{lu2022hybrid,
+  title={Hybrid Physical Metric For 6-DoF Grasp Pose Detection},
+  author={Lu, Yuhao and Deng, Beixing and Wang, Zhenyu and Zhi, Peiyuan and Li, Yali and Wang, Shengjin},
+  booktitle={2022 International Conference on Robotics and Automation (ICRA)},
+  pages={8238--8244},
+  year={2022},
+  organization={IEEE}
+}
+```
