@@ -81,6 +81,10 @@ Run Demo:
 python demo.py
 ```
 
+## Video
+
+[![Video for FGC-GraspNet]](https://www.youtube.com/watch?v=gMoomsMJU_Y)
+
 ## BibTeX
 ```
 @inproceedings{lu2022hybrid,
