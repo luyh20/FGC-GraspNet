@@ -83,7 +83,7 @@ python demo.py
 
 ## Video
 
-[![Video for FGC-GraspNet]](https://www.youtube.com/watch?v=gMoomsMJU_Y)
+[![Video for FGC-GraspNet](https://i9.ytimg.com/vi_webp/gMoomsMJU_Y/mq1.webp?sqp=CODqk5sG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC3gOKAgwIABABGGUgYyhTMA8=&rs=AOn4CLA3tZVf3QbQnEDMVceXTgOKEUnMrw)](https://www.youtube.com/watch?v=gMoomsMJU_Y)
 
 ## BibTeX
 ```
