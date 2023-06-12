@@ -157,7 +157,7 @@ class FGC_graspnet(nn.Module):
             grasp_top_views_rot, _, _, end_points = match_grasp_view_and_label(end_points)
             seed_xyz = end_points['batch_grasp_point']
         else:
-            #_, _, _, end_points = match_grasp_view_and_label(end_points)
+            _, _, _, end_points = match_grasp_view_and_label(end_points)
             grasp_top_views_rot = end_points['grasp_top_view_rot']
             seed_xyz = end_points['fp2_xyz']
 
