@@ -71,6 +71,8 @@ Testing:
 sh test.sh
 ```
 
+## Model
+Realsense model's link，https://drive.google.com/file/d/1Y-CWHr_eZDoZm3XJocrUJq1SA5tfrONX/view?usp=sharing
 
 ## Demo
 The demo uses the RGBD data collected in real time from the Realsense D435i camera as input, and predicts the grasp poses results by the FGC_GraspNet.
